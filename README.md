@@ -1,10 +1,10 @@
-# Jackbox Party Picker
+# Game Night Picker
 
-A colorful, no-install game picker for the Friday 3:30 PM social. Browse Jackbox games by player count and genre, choose which games are in the draw, then shuffle a balanced shortlist onto a results screen.
+A no-install party game picker for the Friday 3:30 PM social. Browse games by player count and genre, choose which ones go in the draw, then shuffle a balanced shortlist onto a results screen.
 
 ## Features
 
-- Browse 40 games from Jackbox Party Packs 4–11.
+- Browse all 40 games from Jackbox Party Packs 4–11.
 - Filter by player count and genre, and expand cards for game details.
 - Include or exclude games from the random draw.
 - Choose how many games to reveal; the picker spreads results across genres where possible.
@@ -27,4 +27,4 @@ Use [RANK_THE_GAMES.md](RANK_THE_GAMES.md) to rank every included game from most
 
 ## Catalog notes
 
-This picker includes the games listed here from Packs 4–11. Game facts and images are attributed in the page footer to [Jackbox Games](https://www.jackboxgames.com/games); genre labels and short how-to-play descriptions were written for this project.
+The current catalog contains the five games from each Jackbox Party Pack 4–11. It does not yet include standalone Jackbox titles or games from other publishers. Game facts and images are attributed in the page footer to [Jackbox Games](https://www.jackboxgames.com/games); genre labels and short how-to-play descriptions were written for this project.

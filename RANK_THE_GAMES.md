@@ -1,4 +1,4 @@
-# Rank the Jackbox games
+# Rank the party games
 
 Give each game a unique rank from **1 (least fun)** to **40 (most fun)**. Fill in the first column; the catalog is grouped by pack so it is easy to scan.
 
