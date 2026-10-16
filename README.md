@@ -1,34 +1,30 @@
 # Jackbox Party Picker
 
-A quick, colorful way to choose a Jackbox game for your next group hangout. Filter the catalog by player count and game style, build a balanced shortlist, then copy the options straight into a poll.
+A colorful, no-install game picker for the Friday 3:30 PM social. Browse Jackbox games by player count and genre, choose which games are in the draw, then shuffle a balanced shortlist onto a results screen.
 
-## What it does
+## Features
 
-- Filters 40 games from Jackbox Party Packs 4–11 by player count and genre.
-- Shows a short description for every game, with extra details when you open a card.
-- Builds a random shortlist spread across the available genres.
-- Lets you select games by hand and copy the final list to your clipboard.
-- Shows a ballot preview after copying.
-- Runs as a single static HTML file, with no build step or install required.
+- Browse 40 games from Jackbox Party Packs 4–11.
+- Filter by player count and genre, and expand cards for game details.
+- Include or exclude games from the random draw.
+- Choose how many games to reveal; the picker spreads results across genres where possible.
+- See each game's Party Pack, player range, and estimated round length on the results screen.
+- Runs as a static page with game images bundled in; no install or build step is needed.
 
-## Run it
+## Use it
 
-Open `jackbox-picker.html` in a modern browser. The images are bundled into the page, so it works as a standalone file.
+Open [the live picker](https://jamilfaisal.github.io/jackbox-party-picker/) or open `index.html` in a modern browser. Choose the player count and genres, adjust the shortlist size, check the games you want included, then select **Shuffle & reveal shortlist**.
 
-## Put it online with GitHub Pages
+## Rank the games
 
-> **Visibility:** A GitHub Pages site is publicly available on the internet, even when its repository is private. Private-repository Pages availability also depends on your GitHub plan. Check [GitHub's Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) before enabling it.
+Use [RANK_THE_GAMES.md](RANK_THE_GAMES.md) to rank every included game from most fun to least fun. It includes each game's Party Pack and a short description.
 
-1. Create a repository in your personal GitHub account and add these project files.
-2. In the repository, open **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. Open the Pages URL GitHub provides. The picker is the `jackbox-picker.html` file; rename it to `index.html` if you want it to open at the repository's main Pages address.
+## Project files
 
-## Files
-
-- `jackbox-picker.html` — the complete interactive picker and bundled game images.
-- `RANK_THE_GAMES.md` — a blank ranking worksheet with every included game and its description.
+- `index.html` — the GitHub Pages entry point and complete picker, including bundled game images.
+- `jackbox-picker.html` — a compatibility redirect for the original local filename.
+- `RANK_THE_GAMES.md` — the blank ranking worksheet.
 
 ## Catalog notes
 
-The page covers the games currently listed in this picker from Packs 4–11. Game facts and images are attributed in the page footer to [Jackbox Games](https://www.jackboxgames.com/games); the genre labels and short how-to-play descriptions were written for this picker.
+This picker includes the games listed here from Packs 4–11. Game facts and images are attributed in the page footer to [Jackbox Games](https://www.jackboxgames.com/games); genre labels and short how-to-play descriptions were written for this project.
