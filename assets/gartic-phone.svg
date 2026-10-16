@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="A telephone linking a sentence to a drawing">
+  <rect width="640" height="360" rx="28" fill="#fff0dc"/>
+  <circle cx="500" cy="69" r="103" fill="#ffcd78" opacity=".65"/>
+  <circle cx="99" cy="330" r="121" fill="#f6b9a2" opacity=".62"/>
+  <rect x="85" y="80" width="167" height="193" rx="19" fill="#fffdf8" stroke="#594952" stroke-width="8" transform="rotate(-7 168 176)"/>
+  <path d="M118 127q37-25 83 1M116 162q47-17 91 8M120 197q32-6 60 7" fill="none" stroke="#6f9aaf" stroke-width="9" stroke-linecap="round"/>
+  <rect x="385" y="91" width="167" height="174" rx="20" fill="#fffdf8" stroke="#594952" stroke-width="8" transform="rotate(7 468 178)"/>
+  <path d="M425 210q14-36 32-24 12-30 26-4 24-21 30 13" fill="none" stroke="#d96954" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="443" cy="146" r="6" fill="#594952"/><circle cx="484" cy="151" r="6" fill="#594952"/>
+  <path d="M278 177h79m-21-20 21 20-21 20" fill="none" stroke="#594952" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M285 260c-23-17-18-43-5-51m73 51c23-17 18-43 5-51" fill="none" stroke="#9b7092" stroke-width="10" stroke-linecap="round"/>
+  <path d="M283 210c6-20 22-20 32-10 10-10 26-10 32 10" fill="none" stroke="#9b7092" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="320" cy="235" r="8" fill="#ef9a58"/>
+</svg>

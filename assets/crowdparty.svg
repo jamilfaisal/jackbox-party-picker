@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="A cheerful group celebrating together">
+  <rect width="640" height="360" rx="28" fill="#efeaf8"/>
+  <circle cx="314" cy="170" r="132" fill="#f8d8b2"/>
+  <path d="M83 98 96 63m13 43 29-23m-40-6-28-14M536 93l14-37m17 53 33-18m-42-12-24-24" stroke="#e18d63" stroke-width="9" stroke-linecap="round"/>
+  <path d="M111 279c3-43 29-68 64-68s60 25 63 68" fill="#78aaa1" stroke="#453f59" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M401 279c3-43 29-68 64-68s60 25 63 68" fill="#d78d9b" stroke="#453f59" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M224 301c4-53 39-84 88-84s84 31 88 84" fill="#7792c9" stroke="#453f59" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="175" cy="151" r="43" fill="#f3ba82" stroke="#453f59" stroke-width="8"/>
+  <circle cx="465" cy="151" r="43" fill="#efb297" stroke="#453f59" stroke-width="8"/>
+  <circle cx="312" cy="152" r="53" fill="#f0b878" stroke="#453f59" stroke-width="8"/>
+  <path d="M156 151h1m34 0h1m256 0h1m34 0h1m-187-1h1m34 0h1" stroke="#453f59" stroke-width="9" stroke-linecap="round"/>
+  <path d="M168 170q8 9 16 0m272 0q8 9 16 0m-176 12q14 14 28 0" fill="none" stroke="#453f59" stroke-width="6" stroke-linecap="round"/>
+  <path d="m292 79 10-24 13 22m46 27 23-10-4 26m-177-1 23-13 2 25" fill="#f3c84e" stroke="#453f59" stroke-width="6" stroke-linejoin="round"/>
+</svg>

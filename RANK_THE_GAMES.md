@@ -1,8 +1,8 @@
 # Rank the party games
 
-Give each game a unique rank from **1 (least fun)** to **40 (most fun)**. Fill in the first column; the catalog is grouped by pack so it is easy to scan.
+Give each game a unique rank from **1 (least fun)** to **43 (most fun)**. Fill in the first column; the catalog is grouped by Party Pack, followed by standalone games.
 
-| Rank | Game | Pack | Players | Time | Description |
+| Rank | Game | Pack / source | Players | Time | Description |
 |:---:|---|:---:|:---:|:---:|---|
 |  | Bracketeering | 4 | 3–16 | ~15 min | Answer prompts as absurdly as possible, then bet on which answers win head-to-head matchups in a tournament bracket. |
 |  | Civic Doodle | 4 | 3–8 | ~20 min | Two players at a time improve on a shared doodle, and everyone votes for the best embellishment. |
@@ -44,3 +44,6 @@ Give each game a unique rank from **1 (least fun)** to **40 (most fun)**. Fill i
 |  | Hear Say | 11 | 2–8 | ~15 min | Record your own sound effects and dialogue to dub scenes, then vote on the best audio. |
 |  | Legends of Trivia | 11 | 1–6 | ~20 min | A cooperative trivia RPG where your team answers questions to battle fantasy foes. |
 |  | Suspectives | 11 | 4–8 | ~15 min | A social-deduction detective game where you investigate clues and argue your own innocence. |
+|  | skribbl.io | skribbl.io | 2–20 | ~15 min | Take turns drawing a secret word while everyone else races to guess it; score points for quick, correct guesses. |
+|  | Gartic Phone | Gartic Phone | 4–14 | ~20 min | Write a strange sentence, draw someone else's sentence, then describe the next drawing as the message passes around the room. |
+|  | CrowdParty | CrowdParty | Varies by activity | ~10 min | Choose a quick group activity such as trivia, charades, or an icebreaker, then play together in a hosted room. |
