@@ -8,7 +8,7 @@ A quick, colorful way to choose a Jackbox game for your next group hangout. Filt
 - Shows a short description for every game, with extra details when you open a card.
 - Builds a random shortlist spread across the available genres.
 - Lets you select games by hand and copy the final list to your clipboard.
-- Shows a shareable ballot preview after copying.
+- Shows a ballot preview after copying.
 - Runs as a single static HTML file, with no build step or install required.
 
 ## Run it
@@ -16,6 +16,8 @@ A quick, colorful way to choose a Jackbox game for your next group hangout. Filt
 Open `jackbox-picker.html` in a modern browser. The images are bundled into the page, so it works as a standalone file.
 
 ## Put it online with GitHub Pages
+
+> **Visibility:** A GitHub Pages site is publicly available on the internet, even when its repository is private. Private-repository Pages availability also depends on your GitHub plan. Check [GitHub's Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) before enabling it.
 
 1. Create a repository in your personal GitHub account and add these project files.
 2. In the repository, open **Settings → Pages**.
