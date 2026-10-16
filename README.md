@@ -17,7 +17,7 @@ Open [the live picker](https://jamilfaisal.github.io/game-night-picker/) or open
 
 ## Rank the games
 
-Use [RANK_THE_GAMES.md](RANK_THE_GAMES.md) to rank all 43 entries from least fun to most fun. It includes each game's pack or source and a short description.
+Use [RANK_THE_GAMES.md](RANK_THE_GAMES.md) to rank all 43 entries from **1 (most fun)** to **43 (least fun)**. It includes each game's pack or source and a short description.
 
 ## Project files
 

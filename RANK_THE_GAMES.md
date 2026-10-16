@@ -1,6 +1,6 @@
 # Rank the party games
 
-Give each game a unique rank from **1 (least fun)** to **43 (most fun)**. Fill in the first column; the catalog is grouped by Party Pack, followed by standalone games.
+Give each game a unique rank from **1 (most fun)** to **43 (least fun)**. Fill in the first column; the catalog is grouped by Party Pack, followed by standalone games.
 
 | Rank | Game | Pack / source | Players | Time | Description |
 |:---:|---|:---:|:---:|:---:|---|
