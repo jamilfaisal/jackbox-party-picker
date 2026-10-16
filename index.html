@@ -21,11 +21,11 @@
     --pack: rgba(0,229,255,.16);
   }
   * { box-sizing: border-box; }
-  html, body { margin: 0; height: 100%; }
+  html, body { margin: 0; }
   body {
     font-family: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
     color: var(--ink);
-    min-height: 100%;
+    min-height: 100vh;
     padding: 32px 20px 110px;
     background: linear-gradient(125deg, var(--bg1), var(--bg2), var(--bg3), var(--bg1));
     background-size: 400% 400%;
@@ -173,7 +173,7 @@
   .board-overlay {
     position: fixed; inset: 0; z-index: 50; overflow-y: auto;
     background: linear-gradient(125deg, var(--bg1), var(--bg2), var(--bg3), var(--bg1));
-    background-size: 400% 400%; animation: drift 22s ease infinite, fadein .25s ease;
+    background-size: 400% 400%; background-repeat: no-repeat; animation: drift 22s ease infinite, fadein .25s ease;
     padding: 28px 24px 40px;
   }
   @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
@@ -229,6 +229,7 @@
       radial-gradient(ellipse at 50% -12%, rgba(116,44,190,.3), transparent 48%),
       linear-gradient(145deg, #10071f 6%, #1d1037 48%, #071d35 100%);
     background-size: cover;
+    background-repeat: no-repeat;
     animation: none;
   }
   .wrap { position: relative; z-index: 1; max-width: 930px; }
