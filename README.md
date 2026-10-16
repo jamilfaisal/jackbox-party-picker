@@ -1,4 +1,4 @@
-# Game Night Picker
+# Party Game Picker
 
 A no-install party game picker for the Friday 3:30 PM social. Browse games by player count and genre, choose which ones go in the draw, then shuffle a balanced shortlist onto a results screen.
 
@@ -13,7 +13,7 @@ A no-install party game picker for the Friday 3:30 PM social. Browse games by pl
 
 ## Use it
 
-Open [the live picker](https://jamilfaisal.github.io/game-night-picker/) or open `index.html` in a modern browser. Choose the player count and genres, adjust the shortlist size, check the games you want included, then select **Shuffle & reveal shortlist**.
+Open [the live picker](https://jamilfaisal.github.io/party-game-picker/) or open `index.html` in a modern browser. Choose the player count and genres, adjust the shortlist size, check the games you want included, then select **Shuffle & reveal shortlist**.
 
 ## Rank the games
 
